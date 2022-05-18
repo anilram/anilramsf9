@@ -66,6 +66,7 @@
         <members>Account.AnnualRevenue</members>
         <members>Account.BillingAddress</members>
         <members>Account.CleanStatus</members>
+        <members>Account.Comments__c</members>
         <members>Account.CustomerPriority__c</members>
         <members>Account.DandbCompanyId</members>
         <members>Account.Description</members>
@@ -2159,6 +2160,29 @@
     <types>
         <members>NotificationTypeConfig</members>
         <name>NotificationTypeConfig</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <members>Analytics Cloud Integration User</members>
+        <members>Analytics Cloud Security User</members>
+        <members>Anil Ram</members>
+        <members>ContractManager</members>
+        <members>Cross Org Data Proxy User</members>
+        <members>Custom%3A Marketing Profile</members>
+        <members>Custom%3A Sales Profile</members>
+        <members>Custom%3A Support Profile</members>
+        <members>Force%2Ecom - App Subscription User</members>
+        <members>Force%2Ecom - Free User</members>
+        <members>Identity User</members>
+        <members>MarketingProfile</members>
+        <members>Minimum Access - Salesforce</members>
+        <members>Partner App Subscription User</members>
+        <members>Read Only</members>
+        <members>SolutionManager</members>
+        <members>Standard</members>
+        <members>StandardAul</members>
+        <members>Work%2Ecom Only User</members>
+        <name>Profile</name>
     </types>
     <types>
         <members>Case.LogACall</members>
