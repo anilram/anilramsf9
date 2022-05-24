@@ -5,6 +5,7 @@
         <members>CalcClassTemp</members>
         <members>CalcClassTempTestClass</members>
         <members>CalcClassTest</members>
+        <members>CalcClassTestClass</members>
         <members>CreatingAccount</members>
         <members>MathClass</members>
         <members>MathClassTest</members>
