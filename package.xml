@@ -13,4 +13,8 @@
         <members>MathClassTest</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>Account-en_US</members>
+        <name>CustomObjectTranslation</name>
+    </types>
 </Package>
