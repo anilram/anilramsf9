@@ -5,11 +5,11 @@
         <name>Active__c</name>
         <picklistValues>
             <masterLabel>No</masterLabel>
-            <translation>Nope</translation>
+            <translation>N</translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Yes</masterLabel>
-            <translation>Yup</translation>
+            <translation>Y</translation>
         </picklistValues>
     </fields>
     <fields>
