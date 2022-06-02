@@ -72,6 +72,14 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>Account.accountsharingrules</members>
+        <name>SharingCriteriaRule</name>
+    </types>
+    <types>
+        <members>Account</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>Account.Billing</members>
         <name>WebLink</name>
     </types>
