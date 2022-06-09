@@ -4,13 +4,14 @@ public class CalcClassTest {
     public static testMethod void test1(){
         CalcClass bc = new CalcClass();
         bc.add(10, 10);
-        //test
+        //test1
         bc.sub(10,10);
         bc.multiply(20,20);
     }
     
     public static testMethod void test2(){
         CalcClass bc = new CalcClass();
+        //test1
         bc.add(110, 110);
         bc.sub(110,110);
         bc.multiply(110,110);
@@ -18,7 +19,7 @@ public class CalcClassTest {
     
     public static testMethod void test3(){
         MathClass bc = new MathClass();
-        //test
+        //test1
         bc.add(110, 110);
         bc.sub(110,110);
         bc.multiply(110,110);

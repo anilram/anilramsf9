@@ -1,6 +1,6 @@
 public class MathClass{
     public MathClass(){
-        //test
+        //test1
     }
     
     Public void add(Integer a ,integer b){
