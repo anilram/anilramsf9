@@ -14,4 +14,11 @@ public class CalcClassTest {
         bc.sub(110,110);
         bc.multiply(110,110);
     }
+    
+    public static testMethod void test3(){
+        MathClass bc = new MathClass();
+        bc.add(110, 110);
+        bc.sub(110,110);
+        bc.multiply(110,110);
+    }
 }
