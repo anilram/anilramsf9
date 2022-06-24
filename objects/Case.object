@@ -254,7 +254,7 @@
     <fields>
         <fullName>Description</fullName>
         <trackFeedHistory>false</trackFeedHistory>
-        <trackHistory>true</trackHistory>
+        <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
