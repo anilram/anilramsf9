@@ -212,6 +212,7 @@
     </actionOverrides>
     <actionOverrides>
         <actionName>WebsiteHighlightAction</actionName>
+        <formFactor>Small</formFactor>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
