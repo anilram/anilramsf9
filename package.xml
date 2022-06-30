@@ -14,6 +14,10 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Lead.Company</members>
+        <name>CompactLayout</name>
+    </types>
+    <types>
         <members>Account.AccountNumber</members>
         <members>Account.AccountSource</members>
         <members>Account.Active__c</members>
@@ -53,41 +57,43 @@
         <members>Account.UpsellOpportunity__c</members>
         <members>Account.Website</members>
         <members>Account.YearStarted</members>
-        <members>Case.AccountId</members>
-        <members>Case.AssetId</members>
-        <members>Case.BusinessHoursId</members>
-        <members>Case.ClosedDate</members>
-        <members>Case.Comments</members>
-        <members>Case.ContactEmail</members>
-        <members>Case.ContactFax</members>
-        <members>Case.ContactId</members>
-        <members>Case.ContactMobile</members>
-        <members>Case.ContactPhone</members>
-        <members>Case.Description</members>
-        <members>Case.EngineeringReqNumber__c</members>
-        <members>Case.IsClosedOnCreate</members>
-        <members>Case.IsEscalated</members>
-        <members>Case.Origin</members>
-        <members>Case.OwnerId</members>
-        <members>Case.ParentId</members>
-        <members>Case.PotentialLiability__c</members>
-        <members>Case.Priority</members>
-        <members>Case.Product__c</members>
-        <members>Case.Reason</members>
-        <members>Case.SLAViolation__c</members>
-        <members>Case.SourceId</members>
-        <members>Case.Status</members>
-        <members>Case.Subject</members>
-        <members>Case.SuppliedCompany</members>
-        <members>Case.SuppliedEmail</members>
-        <members>Case.SuppliedName</members>
-        <members>Case.SuppliedPhone</members>
-        <members>Case.Type</members>
+        <members>Lead.Address</members>
+        <members>Lead.AnnualRevenue</members>
+        <members>Lead.CampaignId</members>
+        <members>Lead.CleanStatus</members>
+        <members>Lead.Company</members>
+        <members>Lead.CompanyDunsNumber</members>
+        <members>Lead.CurrentGenerators__c</members>
+        <members>Lead.DandbCompanyId</members>
+        <members>Lead.Description</members>
+        <members>Lead.DoNotCall</members>
+        <members>Lead.Email</members>
+        <members>Lead.Fax</members>
+        <members>Lead.HasOptedOutOfEmail</members>
+        <members>Lead.HasOptedOutOfFax</members>
+        <members>Lead.IndividualId</members>
+        <members>Lead.Industry</members>
+        <members>Lead.Jigsaw</members>
+        <members>Lead.LastTransferDate</members>
+        <members>Lead.LeadSource</members>
+        <members>Lead.MobilePhone</members>
+        <members>Lead.Name</members>
+        <members>Lead.NumberOfEmployees</members>
+        <members>Lead.NumberofLocations__c</members>
+        <members>Lead.OwnerId</members>
+        <members>Lead.Phone</members>
+        <members>Lead.Primary__c</members>
+        <members>Lead.ProductInterest__c</members>
+        <members>Lead.Rating</members>
+        <members>Lead.SICCode__c</members>
+        <members>Lead.Status</members>
+        <members>Lead.Title</members>
+        <members>Lead.Website</members>
         <name>CustomField</name>
     </types>
     <types>
         <members>Account</members>
-        <members>Case</members>
+        <members>Lead</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -100,10 +106,11 @@
         <members>Account.NewLastWeek</members>
         <members>Account.NewThisWeek</members>
         <members>Account.PlatinumandGoldSLACustomers</members>
-        <members>Case.AllClosedCases</members>
-        <members>Case.AllOpenCases</members>
-        <members>Case.MyCases</members>
-        <members>Case.MyOpenCases</members>
+        <members>Lead.AllOpenLeads</members>
+        <members>Lead.MyUnreadLeads</members>
+        <members>Lead.TodaysLeads</members>
+        <members>Lead.ViewCustom1</members>
+        <members>Lead.ViewCustom2</members>
         <name>ListView</name>
     </types>
     <types>
@@ -116,7 +123,6 @@
     </types>
     <types>
         <members>Account.Billing</members>
-        <members>Case.UpsellCrosssellOpportunity</members>
         <name>WebLink</name>
     </types>
 </Package>
