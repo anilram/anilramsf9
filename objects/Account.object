@@ -90,7 +90,7 @@
     </actionOverrides>
     <actionOverrides>
         <actionName>ListClean</actionName>
-        <formFactor>Small</formFactor>
+        <formFactor>Large</formFactor>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
@@ -212,7 +212,6 @@
     </actionOverrides>
     <actionOverrides>
         <actionName>WebsiteHighlightAction</actionName>
-        <formFactor>Small</formFactor>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
@@ -511,6 +510,16 @@
     <fields>
         <fullName>YearStarted</fullName>
         <trackFeedHistory>false</trackFeedHistory>
+    </fields>
+    <fields>
+        <fullName>field_trans__c</fullName>
+        <externalId>false</externalId>
+        <label>field_trans</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
     </fields>
     <listViews>
         <fullName>AllAccounts</fullName>

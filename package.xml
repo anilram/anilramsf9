@@ -57,6 +57,7 @@
         <members>Account.UpsellOpportunity__c</members>
         <members>Account.Website</members>
         <members>Account.YearStarted</members>
+        <members>Account.field_trans__c</members>
         <members>Lead.Address</members>
         <members>Lead.AnnualRevenue</members>
         <members>Lead.CampaignId</members>
@@ -112,6 +113,10 @@
         <members>Lead.ViewCustom1</members>
         <members>Lead.ViewCustom2</members>
         <name>ListView</name>
+    </types>
+    <types>
+        <members>audibeantesttabsettings</members>
+        <name>PermissionSet</name>
     </types>
     <types>
         <members>Account.accountsharingrules</members>
