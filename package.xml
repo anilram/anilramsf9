@@ -116,6 +116,7 @@
     </types>
     <types>
         <members>audibeantesttabsettings</members>
+        <members>permissionsetissue</members>
         <name>PermissionSet</name>
     </types>
     <types>
