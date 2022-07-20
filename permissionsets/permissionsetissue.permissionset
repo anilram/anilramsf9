@@ -4,6 +4,11 @@
         <apexClass>HelloWorld</apexClass>
         <enabled>true</enabled>
     </classAccesses>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.permissioncheck__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>permissionsetissue</label>
     <license>Salesforce</license>
