@@ -120,6 +120,10 @@
         <name>PermissionSet</name>
     </types>
     <types>
+        <members>checkde1</members>
+        <name>Profile</name>
+    </types>
+    <types>
         <members>Account.accountsharingrules</members>
         <name>SharingCriteriaRule</name>
     </types>
